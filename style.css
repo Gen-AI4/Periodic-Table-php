@@ -1,0 +1,53 @@
+table {
+  border-collapse: collapse;
+  text-align: center;
+  color: #fff;
+  width: 70%;
+  margin: auto;
+}
+td {
+  border: 1px solid #000;
+  width: 40px;
+  height: 40px;
+}
+h1 {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.empty {
+  border: none;
+}
+.red {
+  background-color: rgb(225, 33, 43);
+}
+.green {
+  background-color: rgb(102, 176, 35);
+}
+.lgreen {
+  background-color: rgb(83, 231, 145);
+}
+.org {
+  background-color: rgb(255, 127, 36);
+}
+.blue {
+  background-color: rgb(28, 116, 199);
+}
+.lblue {
+  background-color: rgb(87, 201, 225);
+}
+.dark {
+  background-color: rgb(66, 96, 128);
+}
+.purple {
+  background-color: rgb(117, 60, 202);
+}
+.pink {
+  background-color: rgb(196, 57, 162);
+}
+.gray {
+  background-color: rgb(156, 156, 156);
+}
+.brown {
+  background-color: rgb(177, 120, 37);
+}
